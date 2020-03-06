@@ -5,7 +5,7 @@ enum class My {
 
     companion object {
         fun values() {}
-        val FIRST = 1;
+        val FIRST = 1
     }
 }
 
